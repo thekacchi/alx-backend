@@ -1,5 +1,5 @@
 msgid "home_title"
-msgstr "Welcome to Holberton"
+msgstr "Bienvenue chez Holberton"
 
 msgid "home_header"
-msgstr "Hello world!"
+msgstr "Bonjour monde!"
